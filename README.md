@@ -84,7 +84,7 @@ no GitHub.
 
 ![Imagem 2](img1.png)
 
-![Imagem 2](img3.png)
+![Imagem 3](img3.png)
 
 
 ## 5. Criando a aplicação
@@ -116,4 +116,4 @@ no GitHub.
 
 ``` localhost:8080 ```
 
-![Imagem 3](img2.png)
+![Imagem 4](img2.png)
