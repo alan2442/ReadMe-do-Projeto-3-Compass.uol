@@ -84,8 +84,6 @@ no GitHub.
 
 ![Imagem 2](img1.png)
 
-![Imagem 3](img3.png)
-
 
 ## 5. Criando a aplicação
 5.1 - Descubra o link do server e anote-o, digite o seguinte commando:
