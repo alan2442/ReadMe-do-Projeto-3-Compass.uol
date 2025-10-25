@@ -35,7 +35,7 @@ no GitHub.
 
 2.5 - Isso fará com que o kubectl, nerdctl e o contexto Kubernetes do Rancher Desktop fiquem disponíveis dentro do Ubuntu.
 
-![Imagem 4](img4.png)
+![Imagem](img4.png)
 
 ## 3. Instalando o ArgoCD
 3.1 - Crie uma namespace chamada argocd:
