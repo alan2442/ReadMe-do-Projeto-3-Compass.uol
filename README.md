@@ -80,6 +80,8 @@ no GitHub.
 
 4.8 - Entre no argoCD com o login admin e senha que você guardou
 
+![Imagem 1](img1)
+
 
 ## 5. Criando a aplicação
 5.1 - Descubra o link do server e anote-o, digite o seguinte commando:
@@ -109,3 +111,5 @@ no GitHub.
 5.7 - Entre no site digitando no navegador o endereço:
 
 ``` localhost:8080 ```
+
+![Imagem 1](img2)
