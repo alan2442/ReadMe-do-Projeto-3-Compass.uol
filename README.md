@@ -80,7 +80,7 @@ no GitHub.
 
 4.8 - Entre no argoCD com o login admin e senha que você guardou
 
-![Imagem 1](img1)
+![Imagem 1](img2.png)
 
 
 ## 5. Criando a aplicação
@@ -112,4 +112,4 @@ no GitHub.
 
 ``` localhost:8080 ```
 
-![Imagem 1](img2)
+![Imagem 1](img3.png)
